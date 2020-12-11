@@ -4,7 +4,7 @@
 #include <conio.h>
 using namespace std;
 bool Button;
-int insuline = 20;
+int insuline = 100;
 
 
 //The Logic Method is used to start and quit the program
